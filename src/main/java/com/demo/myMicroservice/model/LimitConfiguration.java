@@ -1,4 +1,4 @@
-package com.demo.mymicroservice.model;
+package com.demo.myMicroservice.model;
 
 public class LimitConfiguration {
 
